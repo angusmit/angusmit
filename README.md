@@ -7,10 +7,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://github.com/angusmit/angusmit/blob/main/profile-gif.gif" alt="Algorithmic Trading Lab Illustration" width="60%" />
   </a>
+  
 </h1>   
-
-
-<h3 align="left">📫 Let's Connect!</h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3 align="left">🤝 Let's Connect & Collaborate!</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/angusnsh/" target="_blank">
       <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -18,8 +18,13 @@
     <a href="mailto:angusnsh@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" />
     </a>
+    <p align="left">
+      <em>I'm always open to discussing quant finance, deep tech, and innovative side projects. Feel free to drop a message!</em> 🚀
+    </p>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🚀 Featured Projects
 
@@ -39,7 +44,8 @@
 - Financial Technology
 - Numerical Analysis
 - Option Pricing Modelling
-  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Tech Stack
 
 **Core Languages**  
@@ -70,6 +76,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Activity
 <div align="center">
