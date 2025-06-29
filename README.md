@@ -36,8 +36,8 @@
 | **[Rust](https://github.com/angusmit/Rust)** | `Rust` `Cargo` `Memory Safety` | Safe systems programming implementations and experiments |
 
 ## 🌱 Current Focus Areas
-- Building job-portal system 
-- Exploring q, C++, Python conversion in financial engineering
+- Building job-portal system
+- Exploring q, C++, Python conversion in Asian Option Pricing
 
 ## 🔭 Core Specialties
 - Quantitative Development
