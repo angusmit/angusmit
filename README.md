@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2239F7FF&size=35&center=true&vCenter=true&lines=Quant+Developer+;Mathematics+Modeller;Problem+Solver">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=1000&pause=1000&color=%2239F7FF&size=35&center=true&vCenter=true&lines=Quant+Development+;Maths+Modelling;AI/Deep+Learning;Problem+Solving">
   </a>
 
 <h1 align="center">
