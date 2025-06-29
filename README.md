@@ -31,7 +31,7 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | **[job-portal](https://github.com/angusmit/job-portal)** | `Java` `Spring Boot` `Microservices` | Production-grade job platform with modern backend architecture |
-| **[option-pricing-q](https://github.com/angusmit/option-pricing-q)** | `KDB+/Q` `Financial Engineering` | High-performance option pricing models for quantitative finance |
+| **[qPricer](https://github.com/angusmit/qPricer)** | `KDB+/Q` `Financial Engineering` | High-performance option pricing models for quantitative finance |
 | **[Cpp](https://github.com/angusmit/Cpp)** | `C++` `CMake` `Systems Programming` | Low-level systems programming projects and learning resources |
 | **[Rust](https://github.com/angusmit/Rust)** | `Rust` `Cargo` `Memory Safety` | Safe systems programming implementations and experiments |
 
